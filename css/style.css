@@ -1,0 +1,44 @@
+.title {
+    color: cyan;
+    background-color: blue;
+    border-radius: 2rem;
+    padding: 3rem;
+    text-align: center;
+    font-size: xx-large;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.subtitle{
+    text-align: center;
+    background-color: rgb(158, 156, 156);
+    text-decoration: underline;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 1rem;
+    padding: .5rem;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+   text-align: center;
+   justify-content: space-between;
+}
+.botton {
+    text-align: center;
+    padding: 3rem;
+    background-color: rgb(248, 189, 72);
+    margin: 5rem;
+    border-radius: 2rem;
+}
+#numero {
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+input.botton {
+    justify-content: center;
+}
+.inline {
+    display: flex;
+    justify-content: center;
+}
